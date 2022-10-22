@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL 👉: [Click here](https://www.frontendmentor.io/solutions/social-proof-section-C5jfeaayCv)
+- Live Site URL 👉: [Click here](https://cybermaxi7.github.io/Social-proof-section/)
 
 
 ### Built with
@@ -43,6 +43,6 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@Cybermaxi7](https://www.frontendmentor.io/profile/Cybermaxi7)
+- Twitter - [@Cybermaxi7](https://www.twitter.com/Cybermaxi7)
 
